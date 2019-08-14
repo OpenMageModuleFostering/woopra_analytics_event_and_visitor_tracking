@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Woopra_Analytics_Event_And_Visitor_Tracking",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Track each step users take from anonymous visitor to converted unique customer with Woopra realtime analytics.",
+    "authors": [
+    {
+        "name": "Woopra",
+        "email": "support@k3live.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
